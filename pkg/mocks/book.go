@@ -1,6 +1,6 @@
 package mocks
 
-import "github.com/sohanpatel1221/pkg/models"
+import "github.com/sohanpatel1221/GoAPI/pkg/models"
 
 var Books = []models.Book{
 	{

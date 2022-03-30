@@ -6,7 +6,7 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"github.com/tutorials/go/crud/pkg/mocks"
+	"github.com/sohanpatel1221/GoAPI/pkg/mocks"
 )
 
 func DeleteBook(w http.ResponseWriter, r *http.Request) {

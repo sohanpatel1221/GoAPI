@@ -7,8 +7,8 @@ import (
 	"math/rand"
 	"net/http"
 
-	"github.com/tutorials/go/crud/pkg/mocks"
-	"github.com/tutorials/go/crud/pkg/models"
+	"github.com/sohanpatel1221/GoAPI/pkg/mocks"
+	"github.com/sohanpatel1221/GoAPI/pkg/models"
 )
 
 func AddBook(w http.ResponseWriter, r *http.Request) {
